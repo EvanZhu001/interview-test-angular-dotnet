@@ -1,4 +1,4 @@
-# Rezare Systems / Map of Agriculture Interview Test
+# DairyNZ Interview Test
 
 This repository is the template for our technical interview test.
 
