@@ -36,8 +36,9 @@ In order to complete this test you will need the following tools:
 - NPM
 
 You should be able to complete this test on your choice of machine, and some technologies that we use have been deliberately left out to make this as accessible as possible.
-The code in this repository will compile and run on Windows, macOS and Linux.
-Your **modified code** must remain **fully functional** — it should **compile and run successfully** on Windows, macOS, and Linux without errors, and its execution should produce **visible results**.
+The code in this repository will compile and run on Windows, macOS and Linux.  
+  
+Please ensure that your **modified version** can also be **built and run successfully**, with observable output or behaviour.
 
 You may if you prefer use your preferred frontend technology, if you are unfamiliar with Angular - in which case, please note it below:  
 - [ ] Using different frontend technology
